@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    background: white;
+}
+
+footer h5 {
+    color: #666666;
+}
+
+footer a {
+    color: green;
+}
